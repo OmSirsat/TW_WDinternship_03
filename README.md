@@ -7,3 +7,6 @@ This project is a part of the ToppersWorld Web Development Internship program. T
 - HTML
 - CSS
 - JavaScript
+
+##Note- 
+You can take images directly from the orginal flipkart website
